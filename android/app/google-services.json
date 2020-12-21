@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319326377499",
+    "firebase_url": "https://sendrtest.firebaseio.com",
+    "project_id": "sendrtest",
+    "storage_bucket": "sendrtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319326377499:android:2b5ce1a05afbe13c108abe",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319326377499-i41qq95j7e4jm19q2t9tm3jqnr89ce18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1IzuOkvQFvCIdAOv5o0yASQfWZeMgAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319326377499-i41qq95j7e4jm19q2t9tm3jqnr89ce18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
